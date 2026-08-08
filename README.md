@@ -10,6 +10,7 @@ Built with **React, TypeScript, Vite, Tailwind CSS, Google Gemini AI, and Fireba
 
 </div>
 
+
 ---
 
 ## 📖 Overview
