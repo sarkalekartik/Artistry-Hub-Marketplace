@@ -4,6 +4,7 @@
 
 ### Connecting Rural Artisans to the World
 
+
 **AI-Powered Handmade Marketplace for Rural Artisans**
 
 Built with **React, TypeScript, Vite, Tailwind CSS, Google Gemini AI, and Firebase**.
